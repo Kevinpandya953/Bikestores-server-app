@@ -1,0 +1,14 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.Calendars" Path="C:\Users\kevin\.nuget\packages\syncfusion.blazor.calendars\20.2.0.43\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.Core" Path="C:\Users\kevin\.nuget\packages\syncfusion.blazor.core\20.2.0.43\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.Data" Path="C:\Users\kevin\.nuget\packages\syncfusion.blazor.data\20.2.0.43\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.DropDowns" Path="C:\Users\kevin\.nuget\packages\syncfusion.blazor.dropdowns\20.2.0.43\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.Grid" Path="C:\Users\kevin\.nuget\packages\syncfusion.blazor.grid\20.2.0.43\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.Inputs" Path="C:\Users\kevin\.nuget\packages\syncfusion.blazor.inputs\20.2.0.43\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.Lists" Path="C:\Users\kevin\.nuget\packages\syncfusion.blazor.lists\20.2.0.43\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.Navigations" Path="C:\Users\kevin\.nuget\packages\syncfusion.blazor.navigations\20.2.0.43\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.Popups" Path="C:\Users\kevin\.nuget\packages\syncfusion.blazor.popups\20.2.0.43\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.Spinner" Path="C:\Users\kevin\.nuget\packages\syncfusion.blazor.spinner\20.2.0.43\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.SplitButtons" Path="C:\Users\kevin\.nuget\packages\syncfusion.blazor.splitbuttons\20.2.0.43\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.Themes" Path="C:\Users\kevin\.nuget\packages\syncfusion.blazor.themes\20.2.0.43\build\..\staticwebassets\" />
+</StaticWebAssets>
